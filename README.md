@@ -1,9 +1,3 @@
-## Hi there 👋
-
-
-**anurag2917/anurag2917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 # 💫 About Me:
 <br><br>I’m currently working on<br>Building full-stack web projects (MERN) with proper structure, authentication, APIs, and deployment instead of half-baked tutorial clones.<br><br>I’m looking to collaborate on<br>Beginner-to-intermediate real-world projects: dashboards, SaaS-style apps, AI-powered tools, or anything that forces clean backend + frontend integration.<br><br>I’m looking for help with<br>System design basics, production-level project workflows, and honest code reviews (not “looks good bro” feedback).<br><br>I’m currently learning<br>Full-stack development deeply (React, Node, MongoDB) and experimenting with AI agents/chatbots for websites and small businesses.<br><br>Ask me about<br>Web development fundamentals, UI implementation, APIs, debugging backend issues, or how not to prepare for exams the wrong way.<br><br>Fun fact<br>I break things on purpose while learning — that’s how I actually understand systems, not by memorizing syntax.
 
@@ -24,5 +18,4 @@ Here are some ideas to get you started:
 ---
 [![](https://visitcount.itsvg.in/api?id=anurag2917&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
